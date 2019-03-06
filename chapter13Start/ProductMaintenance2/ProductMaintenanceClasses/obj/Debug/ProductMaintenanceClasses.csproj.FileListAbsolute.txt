@@ -1,0 +1,5 @@
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductMaintenanceClasses\bin\Debug\ProductMaintenanceClasses.dll
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductMaintenanceClasses\bin\Debug\ProductMaintenanceClasses.pdb
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.dll
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.pdb

@@ -1,0 +1,8 @@
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductTests\bin\Debug\ProductTests.exe.config
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductTests\bin\Debug\ProductTests.exe
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductTests\bin\Debug\ProductTests.pdb
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductTests\bin\Debug\ProductMaintenanceClasses.dll
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductTests\bin\Debug\ProductMaintenanceClasses.pdb
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductTests\obj\Debug\ProductTests.csprojResolveAssemblyReference.cache
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductTests\obj\Debug\ProductTests.exe
+C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductTests\obj\Debug\ProductTests.pdb
