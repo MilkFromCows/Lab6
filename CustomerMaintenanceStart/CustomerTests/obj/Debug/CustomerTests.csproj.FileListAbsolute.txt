@@ -8,3 +8,13 @@ C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanc
 C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.csproj.CopyComplete
 C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.exe
 C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.pdb
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerTests.exe.config
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerTests.exe
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerTests.pdb
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.csprojAssemblyReference.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.csproj.CopyComplete
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.exe
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.pdb

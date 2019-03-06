@@ -4,3 +4,9 @@ C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanc
 C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csproj.CoreCompileInputs.cache
 C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
 C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojAssemblyReference.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb

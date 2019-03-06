@@ -23,6 +23,10 @@ namespace CustomerMaintenanceClasses
 
             set
             {
+                if(value.Length > 30)
+                {
+                    throw new ArgumentException("firstName");
+                }
                 this.firstName = value;
             }
         }
@@ -36,6 +40,10 @@ namespace CustomerMaintenanceClasses
 
             set
             {
+                if (value.Length > 30)
+                {
+                    throw new ArgumentException("lastName");
+                }
                 this.lastName = value;
             }
         }
@@ -49,6 +57,10 @@ namespace CustomerMaintenanceClasses
 
             set
             {
+                if (value.Length > 30)
+                {
+                    throw new ArgumentException("email");
+                }
                 this.email = value;
             }
         }

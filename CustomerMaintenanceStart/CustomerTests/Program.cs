@@ -23,21 +23,36 @@ namespace CustomerTests
 
         static void EmailTester()
         {
-            Console.WriteLine("Testing email");
-            
-            Customer c1 = new Customer(); // make a new customer using default constructor
-            Console.WriteLine("expecting a null character.  ");
-            if(c1.Email == null)
+            try
             {
-                Console.WriteLine("Email value is null");
+                Console.WriteLine("Testing email");
+
+                Customer c1 = new Customer(); // make a new customer using default constructor
+                Console.WriteLine("expecting a null character.  ");
+                if (c1.Email == null)
+                {
+                    Console.WriteLine("Email value is null");
+                }
+                Customer c2 = new Customer("Bob", "Wiggles", "bloopybloop@yahoo.com");
+                Console.WriteLine("expecting bloopybloop@yahoo.com\t" + c2.Email);
+                c1.Email = "meow@moogles.com";
+                Console.WriteLine("expecting meow@moogles.com\t" + c1.Email);
+                c2.Email = "meow@moogles.com";
+                Console.WriteLine("expecting meow@moogles.com\t" + c2.Email);
+                Console.WriteLine("Testing setters exceptions");
+                Console.WriteLine("Expecting exception for email");
+                c2.Email = "123456789101234567891012345678910@something.com";
             }
-            Customer c2 = new Customer("Bob", "Wiggles", "bloopybloop@yahoo.com" );
-            Console.WriteLine("expecting bloopybloop@yahoo.com\t" + c2.Email);
-            c1.Email = "meow@moogles.com";
-            Console.WriteLine("expecting meow@moogles.com\t" + c1.Email);
-            c2.Email = "meow@moogles.com";
-            Console.WriteLine("expecting meow@moogles.com\t" + c2.Email);
+            catch(ArgumentException)
+            {
+                Console.WriteLine("caught the email length exception.");
+            }
+            
+
+       
+
         }
+
 
         static void FirstNameTester()
         {
