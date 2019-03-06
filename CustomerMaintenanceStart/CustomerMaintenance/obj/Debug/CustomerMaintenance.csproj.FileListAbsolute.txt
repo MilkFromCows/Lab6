@@ -1,0 +1,13 @@
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojAssemblyReference.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CopyComplete
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
