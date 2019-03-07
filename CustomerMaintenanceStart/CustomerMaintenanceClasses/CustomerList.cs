@@ -66,6 +66,20 @@ namespace CustomerMaintenanceClasses
             //Changed(this);
         }
 
+        // overloaded + operator
+        public static CustomerList operator + (CustomerList cl, Customer c)
+        {
+            cl.Add(c);
+            return cl;
+        }
+
+        // overloaded - operator
+        public static CustomerList operator - (CustomerList cl, Customer c)
+        {
+            cl.Remove(c);
+            return cl;
+        }
+
         public override string ToString()
         {
             string output = "";
