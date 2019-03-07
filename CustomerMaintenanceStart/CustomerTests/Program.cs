@@ -11,14 +11,62 @@ namespace CustomerTests
     {
         static void Main(string[] args)
         {
+            TestCustomerAll();
+            TestCustomerListAll();
 
+
+            Console.WriteLine("END OF PROGRAM");
+            Console.ReadLine();
+        }
+
+        // to call all the Customer tests
+        static void TestCustomerAll()
+        {
             EmailTester();
             FirstNameTester();
             LastNameTester();
             TestGetDisplayText();
+        }
 
-            Console.WriteLine("END OF PROGRAM");
-            Console.ReadLine();
+        // to call all the CustomerList tests
+        static void TestCustomerListAll()
+        {
+            TestCustomerListConstructor();
+            TestCustomerListAdd();
+        }
+
+        // test the constructor
+        static void TestCustomerListConstructor()
+        {
+            CustomerList cList = new CustomerList();  // make a new CustomerList
+
+            Console.WriteLine("Testing constructor");
+            Console.WriteLine("Default constructor. Expecting Count of 0 " + cList.Count);
+            Console.WriteLine("Default constructor. Expecting empty string " + cList);
+            Console.WriteLine();
+        }
+
+        static void TestCustomerListAdd()
+        {
+            CustomerList cList = new CustomerList();
+            Customer c1 = new Customer("Simon", "Wiggle", "swiggle@wiggles.com");
+            Customer c3 = new Customer("Lachy", "Wiggle", "lwiggle@wiggles.com");
+
+            Console.WriteLine("Testing Add...");
+            cList.Add(c1);
+            Console.WriteLine("Add that takes a customer parameter");
+            Console.WriteLine("Expecting count of 1 " + cList.Count);
+            Console.WriteLine("Expecting List of 1 customers:\n" + cList);
+            cList.Add("Henry", "TheOctopus", "hoctopus@wiggles.com");
+            Console.WriteLine("Add that takes the 3 customer parameters");
+            Console.WriteLine("Expecting count of 2: " + cList.Count);
+            Console.WriteLine("Expecting list of 2 customers:\n" + cList);
+            cList += c3;
+            Console.WriteLine("Testing overloaded + operator");
+            Console.WriteLine("Expecting count of 3 " + cList.Count);
+            
+            Console.WriteLine("Expecting list of 3 customers:\n" + cList);
+            Console.WriteLine();
         }
 
         static void EmailTester()

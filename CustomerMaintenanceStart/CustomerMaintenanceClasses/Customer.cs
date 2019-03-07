@@ -68,6 +68,11 @@ namespace CustomerMaintenanceClasses
         // Method
         public string GetDisplayText() => firstName + " " + lastName + ", " + email;
 
+        public override string ToString()
+        {
+            return firstName + " " + lastName + " " + email;
+        }
+
         // Constructors
         public Customer()
         {
