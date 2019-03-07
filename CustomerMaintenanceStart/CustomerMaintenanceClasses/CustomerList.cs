@@ -38,15 +38,10 @@ namespace CustomerMaintenanceClasses
             }
         }
 
-        public void Fill()
-        {
-            customers = CustomerDB.GetCustomers();
-        }
+        // expression bodied methods Fill() and Save()
+        public void Fill() => customers = CustomerDB.GetCustomers();
 
-        public void Save()
-        {
-            CustomerDB.SaveCustomers(customers);
-        }
+        public void Save() => CustomerDB.SaveCustomers(customers);
 
         public void Add(Customer customer)
         {
