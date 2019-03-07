@@ -33,6 +33,7 @@ namespace CustomerTests
         {
             TestCustomerListConstructor();
             TestCustomerListAdd();
+            TestCustomerListRemove();
         }
 
         // test the constructor
@@ -67,6 +68,32 @@ namespace CustomerTests
             
             Console.WriteLine("Expecting list of 3 customers:\n" + cList);
             Console.WriteLine();
+        }
+
+        static void TestCustomerListRemove()
+        {
+            // make a CustomerList and 3 customers
+            CustomerList cList = new CustomerList();
+            Customer c1 = new Customer("Simon", "Wiggle", "swiggle@wiggles.com");
+            Customer c2 = new Customer("Emma", "Wiggle", "ewiggle@wiggles.com");
+            Customer c3 = new Customer("Anton", "Wiggle", "awiggle@wiggles.com");
+
+            // add the 3 customers
+            cList += c1;
+            cList += c2;
+            cList += c3;
+
+            Console.WriteLine("Testing...Expecting list of 3 customers\n" + cList);
+
+            // remove a customer
+            cList -= c3;
+
+            Console.WriteLine("Testing Remove...Expecting list of 2 customers\n" + cList);
+
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
         }
 
         static void EmailTester()
