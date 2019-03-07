@@ -86,12 +86,15 @@ namespace CustomerTests
             Console.WriteLine("Testing...Expecting list of 3 customers\n" + cList);
 
             // remove a customer
-            cList -= c3;
+            cList.Remove(c3);
+            
 
-            Console.WriteLine("Testing Remove...Expecting list of 2 customers\n" + cList);
+            Console.WriteLine("Testing Remove" +
+                "...Expecting list of 2 customers\n" + cList);
 
-            Console.WriteLine();
-            Console.WriteLine();
+            Console.WriteLine("testing overloaded - operator");
+            cList -= c2;
+            Console.WriteLine("Expecting list of 1 customer\n" + cList);
             Console.WriteLine();
 
         }
