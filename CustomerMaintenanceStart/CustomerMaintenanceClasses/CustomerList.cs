@@ -16,6 +16,20 @@ namespace CustomerMaintenanceClasses
             customers = new List<Customer>();
         }
 
+        // indexer
+        public Customer this[int i]
+        {
+            get
+            {
+                if (i < 0 || i >= customers.Count)
+                {
+                    throw new ArgumentOutOfRangeException(i.ToString());    
+                }
+                return customers[i];
+            }
+        }
+
+        // properties
         public int Count
         {
             get
