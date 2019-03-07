@@ -27,6 +27,10 @@ namespace CustomerMaintenanceClasses
                 }
                 return customers[i];
             }
+            set
+            {
+                customers[i] = value;
+            }
         }
 
         // properties
