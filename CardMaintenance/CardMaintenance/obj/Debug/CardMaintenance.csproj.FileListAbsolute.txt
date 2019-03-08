@@ -1,0 +1,9 @@
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardMaintenance\bin\Debug\CardMaintenance.exe.config
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardMaintenance\bin\Debug\CardMaintenance.exe
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardMaintenance\bin\Debug\CardMaintenance.pdb
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.csprojAssemblyReference.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.Properties.Resources.resources
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.csproj.GenerateResource.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.exe
+C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.pdb

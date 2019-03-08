@@ -34,6 +34,7 @@ namespace CustomerTests
             TestCustomerListConstructor();
             TestCustomerListAdd();
             TestCustomerListRemove();
+            TestCustomerListIndexers();
         }
 
         // test the constructor
@@ -97,6 +98,31 @@ namespace CustomerTests
             Console.WriteLine("Expecting list of 1 customer\n" + cList);
             Console.WriteLine();
 
+        }
+
+        static void TestCustomerListIndexers()
+        {
+            Console.WriteLine("Testing Indexers...");
+
+            // make a CustomerList and two Customers
+            CustomerList cList = new CustomerList();
+            Customer c1 = new Customer("Simon", "Wiggle", "swiggle@wiggles.com");
+            Customer c2 = new Customer("Emma", "Wiggle", "ewiggle@wiggles.com");
+
+            // add the customers to the customerlist
+            cList.Add(c1);
+            cList += c2;
+            cList.Add("Anton", "Wiggle", "awiggle@wiggles.com");
+
+            Console.WriteLine("Testing indexer...");
+            Console.WriteLine("Getting customer with index 0");
+            Customer c4 = cList[0];
+            Console.WriteLine("Expecting Simon Wiggle\n" + c4);
+            Console.WriteLine("Shouldn't alter the list. Expecting list of 3:\n" + cList);
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            // Although I didn't, I ought to test for an index < 0, and > the length of the cList.
         }
 
         static void EmailTester()

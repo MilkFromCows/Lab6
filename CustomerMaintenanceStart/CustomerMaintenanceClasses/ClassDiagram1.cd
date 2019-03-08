@@ -3,7 +3,7 @@
   <Class Name="CustomerMaintenanceClasses.Customer">
     <Position X="1" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAEAAACBAAAAgAAABAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <HashCode>AAAAAEAAACBAAAAkAAABAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
       <FileName>Customer.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -12,6 +12,13 @@
     <TypeIdentifier>
       <HashCode>AAAAAAAAUAAAAEAAQEAAAAABAAAAAAAAAABAAAAAAAA=</HashCode>
       <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenanceClasses.CustomerList">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIABAAAAAAAESAEABAQAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerList.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
