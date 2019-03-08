@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeffr\\OneDrive\\Desktop\\CS233N\\labs4and5-MilkFromCows\\CardMaintenance\\CardClassLibrary\\CardClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\jeffr\\OneDrive\\Desktop\\CS233N\\Lab6\\CardMaintenance\\CardClassLibrary\\CardClassLibrary.csproj",
       "projectName": "CardClassLibrary",
-      "projectPath": "C:\\Users\\jeffr\\OneDrive\\Desktop\\CS233N\\labs4and5-MilkFromCows\\CardMaintenance\\CardClassLibrary\\CardClassLibrary.csproj",
+      "projectPath": "C:\\Users\\jeffr\\OneDrive\\Desktop\\CS233N\\Lab6\\CardMaintenance\\CardClassLibrary\\CardClassLibrary.csproj",
       "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeffr\\OneDrive\\Desktop\\CS233N\\labs4and5-MilkFromCows\\CardMaintenance\\CardClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\jeffr\\OneDrive\\Desktop\\CS233N\\Lab6\\CardMaintenance\\CardClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,3 +7,12 @@ C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\Ca
 C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.AssemblyInfo.cs
 C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.dll
 C:\Users\jeffr\OneDrive\Desktop\CS233N\labs4and5-MilkFromCows\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.pdb
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CardMaintenance\CardClassLibrary\bin\Debug\netstandard2.0\CardClassLibrary.deps.json
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CardMaintenance\CardClassLibrary\bin\Debug\netstandard2.0\CardClassLibrary.dll
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CardMaintenance\CardClassLibrary\bin\Debug\netstandard2.0\CardClassLibrary.pdb
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.csprojAssemblyReference.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.dll
+C:\Users\jeffr\OneDrive\Desktop\CS233N\Lab6\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.pdb
