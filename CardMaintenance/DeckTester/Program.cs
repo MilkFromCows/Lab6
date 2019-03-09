@@ -56,7 +56,7 @@ namespace DeckTester
                 Console.WriteLine(card + " has been dealt");
             }
             Console.WriteLine("Testing IsEmpty(): expecting True " + deck.IsEmpty());
-            Console.WriteLine("After dealing, deck has " + deck.Count + " cards.");
+            Console.WriteLine("After dealing all the cards, deck has " + deck.Count + " cards.");
             Console.WriteLine();
         }
 

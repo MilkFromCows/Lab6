@@ -83,10 +83,10 @@ namespace CardClassLibrary
             //  card1 gets random card
             //  random card gets temp
             // END LOOP
-            Console.WriteLine("Shuffling cards...");
+            
             Random generator = new Random();
             int size = deck.Count;
-            for (int i = 0; i < size - 1; i++)
+            for (int i = 0; i < size; i++)
             {
                 int rand = generator.Next(1, size);
                 
