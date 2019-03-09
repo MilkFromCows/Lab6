@@ -15,14 +15,14 @@ namespace CardClassLibrary
 
         // fields
         private List<Card> deck;
-        private int count;
+        private int numCards = 0;
 
         // properties
-        public int Count
+        public int NumCards
         {
             get
             {
-                return count;
+                return numCards;
             }
         }
 
@@ -30,13 +30,23 @@ namespace CardClassLibrary
         public Deck()
         {
             // default constructor
-            for(int suit = 0; suit < 4; suit++)
+
+            // instantiate the deck
+            deck = new List<Card>();
+
+            // loop through 52 cards to be
+            for(int suit = 1; suit < 5; suit++)
             {
-                for(int value = 0; value < 13; value++)
+                for(int value = 1; value < 14; value++)
                 {
                     // make a card
+                    Card card = new Card(value, suit);
 
                     // add it to the deck
+                    deck.Add(card);
+
+                    // increment numCards
+                    numCards++;
                 }
             }
         }
