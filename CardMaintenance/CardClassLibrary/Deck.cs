@@ -7,7 +7,7 @@ namespace CardClassLibrary
     public class Deck
     {
         // Deck()
-        // NumCards
+        // Count
         // isEmpty()
         // Card Deal()
         // Shuffle()
@@ -15,14 +15,13 @@ namespace CardClassLibrary
 
         // fields
         private List<Card> deck;
-        private int numCards = 0;
 
         // properties
-        public int NumCards
+        public int Count
         {
             get
             {
-                return numCards;
+                return deck.Count;
             }
         }
 
@@ -44,11 +43,69 @@ namespace CardClassLibrary
 
                     // add it to the deck
                     deck.Add(card);
-
-                    // increment numCards
-                    numCards++;
                 }
             }
+        }
+
+        // methods
+        public bool IsEmpty()
+        {
+            bool isEmpty = false;
+            if(deck.Count == 0)
+            {
+                isEmpty = true;
+            }
+            return isEmpty;
+        }
+        
+        public Card Deal()
+        {
+            Card card;
+            if (deck.Count > 0)
+            {
+                card = deck[0];
+                deck.Remove(card);
+            }
+            else
+            {
+                card = null;
+            }
+            return card;
+        }
+
+        public void Shuffle()
+        {
+            // shuffles the deck
+            // make a random number generator
+            // LOOP
+            //  get a random number
+            //  temp gets card1
+            //  card1 gets random card
+            //  random card gets temp
+            // END LOOP
+            Console.WriteLine("Shuffling cards...");
+            Random generator = new Random();
+            int size = deck.Count;
+            for (int i = 0; i < size - 1; i++)
+            {
+                int rand = generator.Next(1, size);
+                
+                Card temp = deck[i]; // temp gets card1
+                deck[i] = deck[rand]; // card1 gets random card
+                deck[rand] = temp; // random card gets temp
+            }
+
+        }
+
+        public override string ToString()
+        {
+            string cards = "";
+            for(int i = 0; i < deck.Count; i++)
+            {
+                cards += deck[i].ToString();
+                cards += "\n";
+            }
+            return cards;
         }
     }
 }
