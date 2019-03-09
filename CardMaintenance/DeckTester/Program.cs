@@ -84,6 +84,7 @@ namespace DeckTester
             Deck deck = new Deck();
             deck.Shuffle();
             Console.WriteLine("Testing Shuffle: expecting a shuffled deck\n" + deck);
+            
         }
     }
 }
